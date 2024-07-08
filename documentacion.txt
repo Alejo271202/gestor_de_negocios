@@ -27,4 +27,6 @@ caractenisticas a desarrollar:
 
 dia 1
 a falta de conocimiento me aventuro a aprender sobre interfaces en python
-se que el camino sera duro y largo(como essssta xd) pero va a salir
+se que el camino sera duro y largo(como essssta xd) pero va a salir 
+decidi usar dearpygui para la interfaz ya que de las que conozco es la que
+mas me gusta
