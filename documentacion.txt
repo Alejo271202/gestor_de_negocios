@@ -1,0 +1,30 @@
+(nunca hice un proyecto groso en git asi que esta es la primera vez , 
+espero que si sos alguien que no sea yo te sea de ayuda o puedas
+ayudar a mejorar este proyecto opensourse)
+
+va a ser 100% hecho en python el programa (quitando sql) ya que me gusta mas
+
+si alguien monetiza esto o lo usa de base para un programa de pago esta avisado
+de que me va a tener que pagar a mi (Alejo Montesino) la suma de 1000000 de dolares
+o las ganancias generadas por el programa(la mayor suma entre las 2)
+no voy a vender los derechos
+
+nombre = por definir (gestor le digo yo)
+
+caractenisticas a desarrollar:
+    portable
+    poder calcular automaticamente costos y ganancias de ventas
+    crear editar y eliminar productos
+    mostrar en pagina principal las perdidas/ganancias totales y mensuales
+    generar mensualmente un excel de ventas y ganancia/perdidas
+    controlar stock de materia prima 
+    interfaz clara y comoda
+    ingresar perdidas inesperadas
+    gestionar varios negocios , cmbiar entre ellos y generar resumenes totales
+    alertas de stock y visualizacion de este
+    edicion de coste de materia prima afecta precio de productos
+    sugerir precios de productos basandose en redondeos
+
+dia 1
+a falta de conocimiento me aventuro a aprender sobre interfaces en python
+se que el camino sera duro y largo(como essssta xd) pero va a salir
